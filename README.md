@@ -120,10 +120,10 @@ Prism AIGC 把这些环节收进一个本地工作台：**规范内置、资产�
 ## 购买方式
 
 <p>
-  <img src="assets/wechat.png" width="240" alt="微信购买咨询" />
+  <img src="assets/wechat.png" width="240" alt="详情微信咨询" />
 </p>
 
-扫码加微信，备注 **Prism**。付款后发送网盘链接、启动说明和 Skill 包；更新通过微信和网盘同步。
+扫码加微信，**详情微信咨询**（备注 Prism）。
 
 安装与配置见 [快速开始](docs/quick-start.md)。
 
