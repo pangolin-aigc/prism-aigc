@@ -1,0 +1,27 @@
+Prism AIGC Proprietary License
+Copyright (c) 2026 Prism AIGC. All rights reserved.
+
+This repository and the Prism AIGC software (including the Windows package,
+the analysis specification Skill pack, documentation and any related assets)
+are proprietary and closed-source.
+
+Permission is granted only to the original purchaser, solely for personal or
+internal business use, subject to the terms presented at the time of purchase.
+
+Without prior written permission, you may NOT:
+  1. copy, redistribute, resell, rent, lease or sublicense the software or any
+     part of it;
+  2. publish, share or resell the analysis specification Skill pack;
+  3. reverse engineer, decompile, disassemble or attempt to extract the source
+     code, except where such restriction is prohibited by applicable law;
+  4. remove or alter any copyright, license or attribution notices.
+
+The software is provided "AS IS", without warranty of any kind. The author is
+not liable for any damages arising from the use of the software, including but
+not limited to model service fees, data loss or content compliance issues.
+
+Third-party model services are governed by their respective providers' terms.
+Users are responsible for the content they generate and for complying with
+applicable laws and platform policies.
+
+For the full terms, see docs/license-terms.md.
